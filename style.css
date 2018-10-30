@@ -1,3 +1,11 @@
+/*
+
+*{
+  outline: 1px dashed red;
+}
+
+*/
+
 body {
   background-color: #ccc;
 }
@@ -7,6 +15,10 @@ h1 {
 
 h2 {
   color:  #ff4d4d;
+}
+
+img {
+    border-radius: 50%;
 }
 
 p {
