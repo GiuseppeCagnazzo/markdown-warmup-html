@@ -1,0 +1,24 @@
+body {
+  background-color: #ccc;
+}
+h1 {
+  font-style: normal;
+}
+
+h2 {
+  color:  #ff4d4d;
+}
+
+p {
+  font-family: "Times New Roman";
+}
+
+ul {
+  font-family: Arial;
+
+}
+
+a:hover {
+  color: #ff3399;
+
+}
